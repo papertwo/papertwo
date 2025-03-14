@@ -91,5 +91,7 @@ He/Him/*“Why is my code not compiling?!”*
 - 🤖 Debating whether Skynet would use PyTorch or TensorFlow  
 
 *“Code hard, debug harder”* – Probably Confucius, idk 🤷♂️  
+
+### Behold! My glow-up saga: From 'Ctrl+C/Ctrl+V' apprentice to 'I swear this code worked yesterday' wizard 🧙♂️
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=papertwo)
 

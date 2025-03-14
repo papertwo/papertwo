@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papertwo)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papertwo)
-![trophy](https://github-profile-trophy.vercel.app/?username=papertwo)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=papertwo&left_color=green&right_color=red)
